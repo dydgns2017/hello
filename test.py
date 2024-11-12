@@ -1,6 +1,2 @@
-print("Hello")
-print("Hello")
-print("Hello")
-print("Hello")
-print("Hello")
-print("Hello")
+f = open("password.txt", "r")
+print(f.read())
